@@ -1,0 +1,219 @@
+P#V PLSHPROF Internal Version 1.0
+P#! PL/SQL Timer Started
+P#C PLSQL."".""."__plsql_vm"
+P#X 23
+P#C PLSQL."".""."__anonymous_block"
+P#X 171
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 56
+P#R
+P#X 55
+P#R
+P#X 15
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 17
+P#C PLSQL."".""."__anonymous_block"
+P#X 189
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 25
+P#R
+P#X 45
+P#R
+P#X 19
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 34
+P#C PLSQL."".""."__anonymous_block"
+P#X 218
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 22
+P#R
+P#X 32
+P#R
+P#X 16
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 18
+P#C PLSQL."".""."__anonymous_block"
+P#X 102
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 30
+P#R
+P#X 56
+P#R
+P#X 19
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 29
+P#C PLSQL."".""."__anonymous_block"
+P#X 230
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 30
+P#R
+P#X 47
+P#R
+P#X 24
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 19
+P#C PLSQL."SCOTT"."TOPNSAL"::8."TOPNSAL"#3048d2af80817a01 #1
+P#X 142
+P#C SQL."SCOTT"."TOPNSAL"::8."__static_sql_exec_line4" #4."1nsgrdhq04rd5"
+P#! SELECT SUM(SAL) FROM ( SELECT E.SAL FROM SCOTT.EMP
+P#X 2159
+P#R
+P#X 161
+P#R
+P#X 18
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 17
+P#C PLSQL."".""."__anonymous_block"
+P#X 76
+P#C PLSQL."SCOTT"."TOPNSAL_CALLER"::7."TOPNSAL_CALLER"#980980e97e42f8ec #1
+P#X 35
+P#C PLSQL."SCOTT"."TOPNSAL"::8."TOPNSAL"#3048d2af80817a01 #1
+P#X 29
+P#C SQL."SCOTT"."TOPNSAL"::8."__static_sql_exec_line4" #4."1nsgrdhq04rd5"
+P#! SELECT SUM(SAL) FROM ( SELECT E.SAL FROM SCOTT.EMP
+P#X 941
+P#R
+P#X 41
+P#R
+P#X 97
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."PUT_LINE"#c5dd7e95abfe7e9f #109
+P#X 15
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."PUT"#c5dd7e95abfe7e9f #77
+P#X 105
+P#R
+P#X 14
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."NEW_LINE"#980980e97e42f8ec #117
+P#X 16
+P#R
+P#X 14
+P#R
+P#X 14
+P#R
+P#X 13
+P#R
+P#X 23
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 16
+P#C PLSQL."".""."__anonymous_block"
+P#X 112
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 23
+P#R
+P#X 87
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 22
+P#R
+P#X 48
+P#R
+P#X 19
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 26
+P#C PLSQL."".""."__anonymous_block"
+P#X 98
+P#C PLSQL."SCOTT"."TOPNSAL_CALLER"::7."TOPNSAL_CALLER"#980980e97e42f8ec #1
+P#X 60
+P#C PLSQL."SCOTT"."TOPNSAL"::8."TOPNSAL"#3048d2af80817a01 #1
+P#X 44
+P#C SQL."SCOTT"."TOPNSAL"::8."__static_sql_exec_line4" #4."1nsgrdhq04rd5"
+P#! SELECT SUM(SAL) FROM ( SELECT E.SAL FROM SCOTT.EMP
+P#X 928
+P#R
+P#X 48
+P#R
+P#X 92
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."PUT_LINE"#c5dd7e95abfe7e9f #109
+P#X 27
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."PUT"#c5dd7e95abfe7e9f #77
+P#X 47
+P#R
+P#X 14
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."NEW_LINE"#980980e97e42f8ec #117
+P#X 14
+P#R
+P#X 15
+P#R
+P#X 15
+P#R
+P#X 14
+P#R
+P#X 15
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 16
+P#C PLSQL."".""."__anonymous_block"
+P#X 202
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 36
+P#R
+P#X 40
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 22
+P#R
+P#X 54
+P#R
+P#X 26
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 47
+P#C PLSQL."".""."__anonymous_block"
+P#X 92
+P#C PLSQL."SCOTT"."TOPNSAL_CALLER"::7."TOPNSAL_CALLER"#980980e97e42f8ec #1
+P#X 60
+P#C PLSQL."SCOTT"."TOPNSAL"::8."TOPNSAL"#3048d2af80817a01 #1
+P#X 45
+P#C SQL."SCOTT"."TOPNSAL"::8."__static_sql_exec_line4" #4."1nsgrdhq04rd5"
+P#! SELECT SUM(SAL) FROM ( SELECT E.SAL FROM SCOTT.EMP
+P#X 866
+P#R
+P#X 33
+P#R
+P#X 63
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."PUT_LINE"#c5dd7e95abfe7e9f #109
+P#X 17
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."PUT"#c5dd7e95abfe7e9f #77
+P#X 46
+P#R
+P#X 14
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."NEW_LINE"#980980e97e42f8ec #117
+P#X 15
+P#R
+P#X 15
+P#R
+P#X 15
+P#R
+P#X 13
+P#R
+P#X 16
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 16
+P#C PLSQL."".""."__anonymous_block"
+P#X 117
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 25
+P#R
+P#X 28
+P#C PLSQL."SYS"."DBMS_OUTPUT"::11."GET_LINE"#32fb3b6bdac49c05 #129
+P#X 54
+P#R
+P#X 67
+P#R
+P#X 22
+P#R
+P#C PLSQL."".""."__plsql_vm"
+P#X 18
+P#C PLSQL."".""."__anonymous_block"
+P#X 121
+P#C PLSQL."SYS"."DBMS_HPROF"::11."STOP_PROFILING"#980980e97e42f8ec #747
+P#R
+P#R
+P#R
+P#! PL/SQL Timer Stopped
